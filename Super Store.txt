@@ -1,0 +1,16 @@
+things to look out for
+- time it takes between the order date to ship date
+- relationship between market and the products they order
+- relationship between region and the products they order
+- relationship between the ship mode and shipping cost
+- profit and product
+- relationship between ship mode and order priority 
+- products and quantity
+- sales and quantity
+- sales and products
+- category of products most ordered
+- relationship between product and discount
+
+
+things to do.
+- replace missing valuse on postal code
